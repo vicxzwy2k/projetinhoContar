@@ -1,3 +1,3 @@
 ## Projeto Contador em JS
 
-<img src="print.png" alt="print">
+<img src="image/print.png" alt="print">
