@@ -1,0 +1,29 @@
+body {
+    background-color: #eb5e28;
+    display: flex;
+    justify-content: center;
+}
+.conteudo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #fff;
+    color: black;
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 50px;
+    padding: 10px;
+}
+button {
+    border: none;
+    width: 150px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    cursor: pointer;
+    color: #fff;
+    background-color: #2ec4b6;
+}
